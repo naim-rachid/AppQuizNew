@@ -11,7 +11,7 @@ int menu(){
 		printf("-------- a- Vous allez avoir +20 points sur chaque reponse correcte. ---------------------------\n");
 		printf("-------- b- Attention ! Vous allez risquez d'obtenir -10 sur chaque reponse incorrecte ---------\n");
 		printf("-------- c- Attention ! Si vous avez fait le quiz a nouveau, vous allez obtenir\n ");
-		printf("\tle resultat total divise par le nombre de repetition -----------------------------------\n");
+		printf("\tle resultat total divise par 2, puis par 4 -----------------------------------\n");
 		printf("------------------------------------------------------------------------------------------------\n");
 		printf("-------- 1-/ Commencez le Quiz -----------------------------------------------------------------\n");
 		printf("-------- 0-/ Exit ------------------------------------------------------------------------------\n");
